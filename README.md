@@ -1,6 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently Studying <br>🌱 I’m currently learning ML<br>💬 Ask me about Django<br>⚡ Fun fact I think I'm Comedian
+<h1 align="center">Hi 👋, I'm Pusparaj</h1>
+<h3 align="center">A passionate Backend developer from Nepal</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jungbdrkatuwal&label=Profile%20views&color=0e75b6&style=flat" alt="jungbdrkatuwal" /> </p>
+
+- 🌱 I’m currently learning **Backend Development (Python & Django)**
+
+- 💬 Ask me about **Python & Django, Database Management & Optimization**
+
+- 📫 How to reach me **pusparajkatwal247@gmail.com**
+
+- ⚡ Fun fact **I think I am comedian😂**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/18nqv2wuhw/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_jungbdr.py?igsh=NWE0bDJ1b3Z4dDRw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pusparajkatwal247@gmail.com) 
