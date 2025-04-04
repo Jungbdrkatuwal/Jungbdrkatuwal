@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jungbdrkatuwal&label=Profile%20views&color=0e75b6&style=flat" alt="jungbdrkatuwal" /> </p>
 
-- 🌱 I’m currently learning **Backend Development (Python & Django)**
+- 🌱 I’m currently learning **Machine Learning (ML)**
 
 - 💬 Ask me about **Python & Django, Database Management & Optimization**
 
